@@ -1,6 +1,6 @@
 # Chuck Norris Quotes App
 
-![App Screenshot](/public/screenshot.png)
+![App Screenshot](https://github.com/user-attachments/assets/4f9679a2-ceeb-4f68-92d5-d468cf549dad)
 
 A Next.js web application that displays random Chuck Norris quotes from the "dev" category and tracks visitor counts.
 
